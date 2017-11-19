@@ -9,7 +9,7 @@ This repo goes along with the medium tutorial [Mastering the Camera Roll in Reac
 1. clone the repo   
 
 ```
-git clone git@github.com:react-native-training/react-native-camera-roll-tutorial.git
+git clone https://github.com/OYurchuk/react-native-camera.git
 ```
 
 2. install dependencies   
