@@ -1,8 +1,3 @@
-# Mastering the Camera Roll in React Native
-
-[React Native Training](http://reactnative.training/)
-
-This repo goes along with the medium tutorial [Mastering the Camera Roll in React Native](https://medium.com/@dabit3/mastering-the-camera-roll-in-react-native-13b3b1963a2d)
 
 ## Getting Started
 
@@ -14,10 +9,7 @@ git clone https://github.com/OYurchuk/react-native-camera.git
 
 2. install dependencies   
 ```
-yarn 
-```
-or
-```
+
 npm i
 ```
 
@@ -26,12 +18,7 @@ npm i
 react-native link
 ```
 
-4. start in ios or android   
+4. start in ios  
 
 ```
 react-native run-ios
-```
-or
-```
-react-native run-android
-```
